@@ -14,6 +14,9 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+#Unity Meta Files
+*.meta
+
 # Windows shortcuts
 *.lnk
 
